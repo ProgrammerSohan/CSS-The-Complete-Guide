@@ -2,7 +2,14 @@ section{
     background: #ff1b68;
 
 }
-.sec2{
-    background: green;
+h1{
+    color:white;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    color:yellowgreen;
+    font-size: 30px;
+    /*font-family: 'Caprasimo', cursive;*/
+    font-family: 'Bebas Neue', sans-serif;
 
 }
