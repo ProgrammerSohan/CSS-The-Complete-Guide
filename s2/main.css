@@ -13,3 +13,11 @@ p{
     font-family: 'Bebas Neue', sans-serif;
 
 }
+[disabled]{
+   color: red;
+   background-color: yellow;
+}
+.green{
+    color: green;
+    background: blue;
+}
